@@ -1,0 +1,16 @@
+Read the ABOUT_FLOWGENIE.
+then make a todo list task.
+And build the first version of the app, 
+keep the ui minimal, focus on functionality first, everything should work properly ! run tests fir things.
+for ai models .. i want to keep multiple providers.
+
+keep:
+Groqcloud
+AI/ML
+openrouter
+
+as model providers.
+
+update the tdd and product vusion.. to keep the auth for future .
+but do make supabase database.
+
